@@ -1,4 +1,4 @@
-# scMSDA!
+# scMSDA
 scMSDA:A Novel Multi-View Fusion Framework for Single-Cell RNA-seq Data Clustering with Semantic and Distribution Alignment
 
 ## scMSDA Model
