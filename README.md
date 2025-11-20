@@ -12,8 +12,9 @@ The pytorch version of scMSDA : A Novel Multi-View Fusion Framework for Single-C
 - [Parameters](#parameters)
 
 ## <a name="diagram"></a>Network diagram
-<img width="1813" height="1240" alt="模型图final" src="https://github.com/user-attachments/assets/92e35f52-e8fd-402b-bb00-f1b9e8eebcfd" />
 
+
+![model](https://github.com/user-attachments/assets/f1888850-30da-42ae-b0fa-1a65a817528c)
 
 
 
